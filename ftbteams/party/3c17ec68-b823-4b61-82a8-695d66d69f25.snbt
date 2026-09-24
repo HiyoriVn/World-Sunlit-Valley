@@ -1,0 +1,37 @@
+{
+	id: "3c17ec68-b823-4b61-82a8-695d66d69f25"
+	type: "party"
+	owner: "055e79b9-2227-3e6f-8563-2467dd2fa239"
+	ranks: {
+		49b682ab-ccb9-3b79-b827-8c7954531d83: "member"
+		c38eaaba-55be-3737-86ee-854c7d1f3513: "member"
+		055e79b9-2227-3e6f-8563-2467dd2fa239: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sunlit Valley"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EDFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1789739848979L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"HiroVn9395\"}]}" }
+		{ from: "055e79b9-2227-3e6f-8563-2467dd2fa239", date: 1789739857711L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"minermine996\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1789739878011L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"minermine996\"}]}" }
+		{ from: "055e79b9-2227-3e6f-8563-2467dd2fa239", date: 1790079115853L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"PHMTHNH\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1790079125716L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"PHMTHNH\"}]}" }
+	]
+	extra: { }
+}
