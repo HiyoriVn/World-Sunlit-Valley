@@ -1,0 +1,181 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "species:species/v1/v1": {
+    "criteria": {
+      "picked_up_any_item": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "species:species/root": {
+    "criteria": {
+      "picked_up_any_item": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-09-28 22:53:50 +0700",
+      "wild_strawberry": "2026-09-28 22:53:50 +0700",
+      "corn": "2026-09-28 22:53:50 +0700",
+      "onion": "2026-09-28 22:53:50 +0700",
+      "wild_corn": "2026-09-28 22:53:50 +0700",
+      "wild_ribwort": "2026-09-28 22:53:50 +0700",
+      "strawberry": "2026-09-28 22:53:50 +0700",
+      "wild_nettle": "2026-09-28 22:53:50 +0700",
+      "barley": "2026-09-28 22:53:50 +0700",
+      "tomato": "2026-09-28 22:53:50 +0700",
+      "lettuce": "2026-09-28 22:53:50 +0700",
+      "wild_lettuce": "2026-09-28 22:53:50 +0700",
+      "wild_tomatoes": "2026-09-28 22:53:50 +0700",
+      "oat_seeds": "2026-09-28 22:53:50 +0700",
+      "tomato_seeds": "2026-09-28 22:53:50 +0700",
+      "barley_seeds": "2026-09-28 22:53:50 +0700",
+      "strawberry_seeds": "2026-09-28 22:53:50 +0700",
+      "lettuce_seeds": "2026-09-28 22:53:50 +0700",
+      "kernels": "2026-09-28 22:53:50 +0700",
+      "wild_barley": "2026-09-28 22:53:50 +0700",
+      "wild_onion": "2026-09-28 22:53:50 +0700",
+      "wild_oat": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/album_jukebox": {
+    "criteria": {
+      "has_jukebox": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/transportation/jukebox_minecart": {
+    "criteria": {
+      "has_minecart": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/music_label": {
+    "criteria": {
+      "has_blank_music_disc": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "rehooked:recipes/misc/wood_chain": {
+    "criteria": {
+      "blank": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "solonion:recipes/food_book": {
+    "criteria": {
+      "has_potato": "2026-09-28 22:53:50 +0700",
+      "has_book": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "rehooked:recipes/misc/diamond_chain": {
+    "criteria": {
+      "blank": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "species:species/v3/v3": {
+    "criteria": {
+      "picked_up_any_item": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "portable_blueprints:recipes/recipes": {
+    "criteria": {
+      "always_unlock": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "species:species/v2/v2": {
+    "criteria": {
+      "picked_up_any_item": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 22:53:50 +0700"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-09-28 22:53:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2026-09-28 22:58:00 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

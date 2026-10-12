@@ -1,0 +1,39 @@
+{
+	id: "b3d81ee5-c479-4abd-bfac-640b04303574"
+	type: "party"
+	owner: "c28c6e64-aedc-42a4-9803-d03df4543673"
+	ranks: {
+		60d7a45a-f9a6-4b80-bc76-da60942000ee: "member"
+		9dfe6b1a-fc94-4e64-a142-08d9c724af98: "invited"
+		e4319fd7-77e1-4689-91d3-219d2dd32e90: "member"
+		c28c6e64-aedc-42a4-9803-d03df4543673: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Otakus"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF72"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1790611080477L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"HiroVn9395\"}]}" }
+		{ from: "c28c6e64-aedc-42a4-9803-d03df4543673", date: 1790611088574L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"minermine996\"}]}" }
+		{ from: "c28c6e64-aedc-42a4-9803-d03df4543673", date: 1790611088574L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sobacuashoto\"}]}" }
+		{ from: "c28c6e64-aedc-42a4-9803-d03df4543673", date: 1790611088575L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"PHMTHNH\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1790611094274L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"minermine996\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1790611095662L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"PHMTHNH\"}]}" }
+	]
+	extra: { }
+}

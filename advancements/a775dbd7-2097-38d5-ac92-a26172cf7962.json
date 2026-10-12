@@ -1,0 +1,1455 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "species:species/v1/v1": {
+    "criteria": {
+      "picked_up_any_item": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "species:species/root": {
+    "criteria": {
+      "picked_up_any_item": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-09-28 23:05:40 +0700",
+      "wild_strawberry": "2026-09-28 23:05:40 +0700",
+      "corn": "2026-09-28 23:05:40 +0700",
+      "onion": "2026-09-28 23:05:40 +0700",
+      "wild_corn": "2026-09-28 23:05:40 +0700",
+      "wild_ribwort": "2026-09-28 23:05:40 +0700",
+      "strawberry": "2026-09-28 23:05:40 +0700",
+      "wild_nettle": "2026-09-28 23:05:40 +0700",
+      "barley": "2026-09-28 23:05:40 +0700",
+      "tomato": "2026-09-28 23:05:40 +0700",
+      "lettuce": "2026-09-28 23:05:40 +0700",
+      "wild_lettuce": "2026-09-28 23:05:40 +0700",
+      "wild_tomatoes": "2026-09-28 23:05:40 +0700",
+      "oat_seeds": "2026-09-28 23:05:40 +0700",
+      "tomato_seeds": "2026-09-28 23:05:40 +0700",
+      "barley_seeds": "2026-09-28 23:05:40 +0700",
+      "strawberry_seeds": "2026-09-28 23:05:40 +0700",
+      "lettuce_seeds": "2026-09-28 23:05:40 +0700",
+      "kernels": "2026-09-28 23:05:40 +0700",
+      "wild_barley": "2026-09-28 23:05:40 +0700",
+      "wild_onion": "2026-09-28 23:05:40 +0700",
+      "wild_oat": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/album_jukebox": {
+    "criteria": {
+      "has_jukebox": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/transportation/jukebox_minecart": {
+    "criteria": {
+      "has_minecart": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/music_label": {
+    "criteria": {
+      "has_blank_music_disc": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "rehooked:recipes/misc/wood_chain": {
+    "criteria": {
+      "blank": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "solonion:recipes/food_book": {
+    "criteria": {
+      "has_potato": "2026-09-28 23:05:40 +0700",
+      "has_book": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "rehooked:recipes/misc/diamond_chain": {
+    "criteria": {
+      "blank": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "species:species/v3/v3": {
+    "criteria": {
+      "picked_up_any_item": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "portable_blueprints:recipes/recipes": {
+    "criteria": {
+      "always_unlock": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "species:species/v2/v2": {
+    "criteria": {
+      "picked_up_any_item": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2026-09-28 23:05:40 +0700"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-09-28 23:05:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-09-28 23:06:29 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2026-09-28 23:06:56 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2026-09-28 23:06:56 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2026-09-28 23:06:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2026-09-28 23:06:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2026-09-28 23:06:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2026-09-28 23:12:26 +0700",
+      "minecraft:birch_forest": "2026-09-28 23:09:58 +0700",
+      "minecraft:river": "2026-09-28 23:09:50 +0700",
+      "atmospheric:atmospheric:laurel_forest": "2026-09-28 23:10:03 +0700",
+      "minecraft:forest": "2026-09-28 23:10:23 +0700",
+      "minecraft:flower_forest": "2026-09-28 23:13:09 +0700",
+      "minecraft:old_growth_birch_forest": "2026-09-28 23:07:24 +0700",
+      "minecraft:plains": "2026-09-28 23:11:18 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2026-09-28 23:08:12 +0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2026-09-28 23:08:13 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2026-09-28 23:08:13 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2026-09-28 23:08:13 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/general_store_cabinet": {
+    "criteria": {
+      "has_sapling": "2026-09-28 23:08:13 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2026-09-28 23:08:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2026-09-28 23:08:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2026-09-28 23:08:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-09-28 23:08:16 +0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2026-09-28 23:08:16 +0700"
+    },
+    "done": true
+  },
+  "clayworks:recipes/misc/charcoal_from_baking": {
+    "criteria": {
+      "has_log": "2026-09-28 23:08:16 +0700"
+    },
+    "done": true
+  },
+  "windswept:recipes/tools/wooden_bucket": {
+    "criteria": {
+      "has_log": "2026-09-28 23:08:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-09-28 23:08:44 +0700"
+    },
+    "done": true
+  },
+  "society:main/materials/obtain_mossberry": {
+    "criteria": {
+      "mossberry": "2026-09-28 23:08:44 +0700"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2026-09-28 23:09:29 +0700"
+    },
+    "done": true
+  },
+  "longwings:recipes/decorations/butterfly_bowl_feeder": {
+    "criteria": {
+      "has_items": "2026-09-28 23:09:29 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2026-09-28 23:09:29 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2026-09-28 23:09:29 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "windswept:recipes/transportation/chestnut_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "autumnity:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_drakkar": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_drakkar": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/laurel_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/grimwood_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/rosewood_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/kousa_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/morado_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/yucca_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "windswept:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "windswept:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2026-09-28 23:09:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2026-09-28 23:14:46 +0700"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/corn_bag": {
+    "criteria": {
+      "has_corn": "2026-09-28 23:15:01 +0700"
+    },
+    "done": true
+  },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "farm_and_charm:corn": "2026-09-28 23:15:01 +0700"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_egg": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/food/cauliflower_bread": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_tart": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dough": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheesecake": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+    "criteria": {
+      "has_wheat": "2026-09-28 23:15:15 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-28 23:15:20 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2026-09-28 23:15:20 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/cooking/roasted_veggies": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-28 23:15:20 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2026-09-28 23:15:20 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-28 23:15:20 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-28 23:15:20 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2026-09-28 23:15:20 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2026-09-28 23:15:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-09-28 23:16:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2026-09-28 23:19:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2026-09-28 23:19:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-09-28 23:20:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-09-28 23:20:38 +0700"
+    },
+    "done": true
+  },
+  "society:main/money/obtain_sun": {
+    "criteria": {
+      "cash": "2026-09-28 23:28:58 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2026-09-28 23:31:39 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/apple_chair": {
+    "criteria": {
+      "has_apple": "2026-09-28 23:31:39 +0700"
+    },
+    "done": true
+  },
+  "longwings:recipes/decorations/apple_butterfly_brew_bottle": {
+    "criteria": {
+      "has_items": "2026-09-28 23:31:39 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "beetroot": "2026-09-28 23:33:04 +0700",
+      "pumpkin": "2026-09-28 23:42:38 +0700"
+    },
+    "done": false
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "barley_seeds": "2026-09-28 23:33:40 +0700"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-28 23:38:34 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2026-09-28 23:38:34 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-28 23:38:34 +0700"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/tea_leaf_crate": {
+    "criteria": {
+      "has_green_tea_leaf": "2026-09-28 23:54:35 +0700"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/green_tea_leaf_block": {
+    "criteria": {
+      "has_green_tea_leaf": "2026-09-28 23:54:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-09-28 23:55:56 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-09-28 23:55:56 +0700"
+    },
+    "done": true
+  },
+  "etcetera:recipes/bouquet": {
+    "criteria": {
+      "has_small_flowers": "2026-09-28 23:55:56 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/armchair_flower": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-09-28 23:55:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-09-28 23:55:56 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2026-09-28 23:56:08 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/armchair_lemon": {
+    "criteria": {
+      "has_pink_tulip": "2026-09-28 23:56:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2026-09-28 23:56:08 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/armchair_watermelon": {
+    "criteria": {
+      "has_pink_tulip": "2026-09-28 23:56:08 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-09-28 23:56:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-09-28 23:56:10 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2026-09-28 23:56:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2026-09-28 23:56:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2026-09-28 23:56:38 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/armchair_strawberry": {
+    "criteria": {
+      "has_red_tulip": "2026-09-28 23:56:38 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2026-09-28 23:56:38 +0700"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/cooking/mashed_potatoes": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/potato_crate": {
+    "criteria": {
+      "has_potato": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/misc/vegetarian_patty": {
+    "criteria": {
+      "has_potato": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/cooking/potato_noodle": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/brewing/poisonous_potato_from_lead": {
+    "criteria": {
+      "has_potato": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-28 23:56:48 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/violet_screen": {
+    "criteria": {
+      "has_peony": "2026-09-28 23:57:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2026-09-28 23:57:26 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2026-09-28 23:57:26 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-09-28 23:57:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-09-28 23:57:29 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2026-09-28 23:57:32 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/armchair_ivory": {
+    "criteria": {
+      "has_lily_of_the_valley": "2026-09-28 23:57:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2026-09-28 23:57:32 +0700"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2026-09-29 00:03:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_watering_can": {
+    "criteria": {
+      "has_daimond_watering_can": "2026-09-29 23:52:22 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/watering_can_copper": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/banking_guide": {
+    "criteria": {
+      "has_item": "2026-10-01 23:51:29 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/box_of_paints": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/watering_can": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/sweetheart_baking_set_bowl": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/food/cesar_salad": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/sweetheart_baking_set_ingredients": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/food/turnip_salad": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/food/coleslaw": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/food/broccoli_salad": {
+    "criteria": {
+      "has_bowl": "2026-10-01 23:51:41 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

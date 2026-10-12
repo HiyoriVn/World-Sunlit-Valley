@@ -1,0 +1,739 @@
+{
+  "cluttered:recipes/misc/fwish_ottoman": {
+    "criteria": {
+      "has_fish": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/stonecutting/glance_slab": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_ingredient": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/etching_table": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/food/rotten_flesh_from_smoking": {
+    "criteria": {
+      "has_frozen_rotten_flesh": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "species:species/v1/v1": {
+    "criteria": {
+      "picked_up_any_item": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/stonecutting/glance_bricks_from_glance": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/ice_sheet": {
+    "criteria": {
+      "has_ice": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "species:species/root": {
+    "criteria": {
+      "picked_up_any_item": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/cod_barrel": {
+    "criteria": {
+      "has_cod": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-10-04 15:59:31 +0700",
+      "wild_strawberry": "2026-10-04 15:59:31 +0700",
+      "corn": "2026-10-04 15:59:31 +0700",
+      "onion": "2026-10-04 15:59:31 +0700",
+      "wild_corn": "2026-10-04 15:59:31 +0700",
+      "wild_ribwort": "2026-10-04 15:59:31 +0700",
+      "strawberry": "2026-10-04 15:59:31 +0700",
+      "wild_nettle": "2026-10-04 15:59:31 +0700",
+      "barley": "2026-10-04 15:59:31 +0700",
+      "tomato": "2026-10-04 15:59:31 +0700",
+      "lettuce": "2026-10-04 15:59:31 +0700",
+      "wild_lettuce": "2026-10-04 15:59:31 +0700",
+      "wild_tomatoes": "2026-10-04 15:59:31 +0700",
+      "oat_seeds": "2026-10-04 15:59:31 +0700",
+      "tomato_seeds": "2026-10-04 15:59:31 +0700",
+      "barley_seeds": "2026-10-04 15:59:31 +0700",
+      "strawberry_seeds": "2026-10-04 15:59:31 +0700",
+      "lettuce_seeds": "2026-10-04 15:59:31 +0700",
+      "kernels": "2026-10-04 15:59:31 +0700",
+      "wild_barley": "2026-10-04 15:59:31 +0700",
+      "wild_onion": "2026-10-04 15:59:31 +0700",
+      "wild_oat": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/album_jukebox": {
+    "criteria": {
+      "has_jukebox": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/stonecutting/glance_brick_stairs_from_glance": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2026-10-04 15:59:31 +0700"
+    },
+    "done": false
+  },
+  "oreganized:recipes/building_blocks/stonecutting/glance_brick_wall_from_glance": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/diamond_fluid_pipe_a": {
+    "criteria": {
+      "has_material": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/stonecutting/glance_brick_slab_from_glance": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_coal": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/redstone/tnt_barrel": {
+    "criteria": {
+      "has_gunpowder": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/glance_stairs": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_building": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "cluttered:recipes/misc/fwish_armchair": {
+    "criteria": {
+      "has_fish": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "society:main/materials/obtain_earth_crystal": {
+    "criteria": {
+      "earth_crystal": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/transportation/jukebox_minecart": {
+    "criteria": {
+      "has_minecart": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/misc/advancedmagnet": {
+    "criteria": {
+      "recipe_condition": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/polished_glance": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_gunpowder": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "longwings:recipes/decorations/butterfly_bowl_feeder": {
+    "criteria": {
+      "has_items": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/stonecutting/polished_glance": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/music_label": {
+    "criteria": {
+      "has_blank_music_disc": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/diamond_pipe": {
+    "criteria": {
+      "has_material": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/redstone/shrapnel_bomb": {
+    "criteria": {
+      "has_gunpowder": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "has_iron_bars": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "golemoverhaul:recipes/misc/coal_golem": {
+    "criteria": {
+      "has_coal": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/cooking/fish_and_chips": {
+    "criteria": {
+      "has_any_ingredient": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "rehooked:recipes/misc/wood_chain": {
+    "criteria": {
+      "blank": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "vinery:recipes/campfire": {
+    "criteria": {
+      "has_coal": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/spotted_glance": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "solonion:recipes/food_book": {
+    "criteria": {
+      "has_potato": "2026-10-04 15:59:31 +0700",
+      "has_book": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/food/rotten_flesh_from_campfire_cooking": {
+    "criteria": {
+      "has_frozen_rotten_flesh": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "rehooked:recipes/misc/diamond_hook": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/glance_slab": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "rehooked:recipes/misc/diamond_chain": {
+    "criteria": {
+      "blank": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "veggiesdelight:recipes/food/garlic_baked_cod": {
+    "criteria": {
+      "has_fish": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/tomato_sauce_bucket_from_bowls": {
+    "criteria": {
+      "has_bucket": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/tools/diamond_sewing_needle": {
+    "criteria": {
+      "has_material": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "species:species/v3/v3": {
+    "criteria": {
+      "picked_up_any_item": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/stonecutting/glance_stairs": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_lattice": {
+    "criteria": {
+      "has_coal": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/stonecutting/glance_wall": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/glance_wall": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_result": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/brewing/corrupted_wart": {
+    "criteria": {
+      "has_frozen_rotten_flesh": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "oreganized:recipes/building_blocks/stonecutting/chiseled_glance": {
+    "criteria": {
+      "has_glance": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "species:species/v2/v2": {
+    "criteria": {
+      "picked_up_any_item": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2026-10-04 15:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-04 15:59:39 +0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-10-04 15:59:39 +0700"
+    },
+    "done": true
+  },
+  "portable_blueprints:recipes/recipes": {
+    "criteria": {
+      "always_unlock": "2026-10-04 15:59:39 +0700"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-10-04 15:59:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-10-04 15:59:44 +0700"
+    },
+    "done": false
+  },
+  "numismatics:recipes/misc/crafting/banking_guide": {
+    "criteria": {
+      "has_item": "2026-10-04 16:00:27 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

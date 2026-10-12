@@ -6,6 +6,7 @@
 		49b682ab-ccb9-3b79-b827-8c7954531d83: "member"
 		c38eaaba-55be-3737-86ee-854c7d1f3513: "member"
 		055e79b9-2227-3e6f-8563-2467dd2fa239: "owner"
+		a775dbd7-2097-38d5-ac92-a26172cf7962: "member"
 	}
 	properties: {
 		"ftbteams:display_name": "Sunlit Valley"
@@ -32,6 +33,8 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1789739878011L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"minermine996\"}]}" }
 		{ from: "055e79b9-2227-3e6f-8563-2467dd2fa239", date: 1790079115853L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"PHMTHNH\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1790079125716L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"PHMTHNH\"}]}" }
+		{ from: "055e79b9-2227-3e6f-8563-2467dd2fa239", date: 1790611561246L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sobacuashoto\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1790611572390L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Sobacuashoto\"}]}" }
 	]
 	extra: { }
 }
